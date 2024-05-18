@@ -1,0 +1,3 @@
+/Users/fran/Documents/Paradigmas de Programacion 2/Ejercio2-guia2/cmake-build-debug/CMakeFiles/Ejercio2_guia2.dir
+/Users/fran/Documents/Paradigmas de Programacion 2/Ejercio2-guia2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/fran/Documents/Paradigmas de Programacion 2/Ejercio2-guia2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
